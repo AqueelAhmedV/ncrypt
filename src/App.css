@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  font-family: 'Courier New';
+  
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 5rem;
+}
+
+.input-group :not(#encrypted){
+  font-family: Noto Sans;
 }
 
 .App-logo {
